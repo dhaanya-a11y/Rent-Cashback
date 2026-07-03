@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "name": "Rent Cashback",
+  "name": "Rent Cashback", 
   "theme": "mint",
   "navigation": [
     {
