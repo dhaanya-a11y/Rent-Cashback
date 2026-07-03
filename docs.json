@@ -1,13 +1,24 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "name": "Rent Cashback",
+  "name": "Rent Cashback Documentation",
   "theme": "mint",
-  "navigation": [
-    {
-      "group": "Documentation",
-      "pages": [
-        "rent-cashback"
-      ]
-    }
-  ]
+  "colors": {
+    "primary": "#16A34A"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "Introduction"
+        ]
+      },
+      {
+        "group": "CVP Offers",
+        "pages": [
+          "rent-cashback"
+        ]
+      }
+    ]
+  }
 }
